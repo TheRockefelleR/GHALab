@@ -3,7 +3,7 @@
 GitHub Actions - przeglad podstawowych rozwiazan
 
 # PKT. 1
-![image](https://github.com/TheRockefelleR/GHALab/assets/84729968/ffb44ab2-90e3-4214-83b0-638fc127722a)
+![image](https://github.com/TheRockefelleR/GHALab/assets/84729968/eb908dc7-fbdd-48b6-a340-de577c772ff7)
 
 
 # PKT. 2
